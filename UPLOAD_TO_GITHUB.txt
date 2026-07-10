@@ -1,0 +1,10 @@
+Newton Screen Recorder - GitHub Ready
+
+1) فك ضغط الملف ZIP.
+2) افتح المجلد الناتج.
+3) ارفع كل المحتويات إلى جذر Repository جديد على GitHub، بما فيها مجلد .github.
+4) اضغط Commit changes.
+5) افتح تبويب Actions ثم Workflow باسم Build Android APK.
+6) بعد نجاح البناء افتح آخر Run ثم نزّل Artifact باسم Newton-Screen-Recorder-APK.
+
+مهم: لا ترفع ملف ZIP نفسه داخل المستودع؛ GitHub لن يفك ضغطه تلقائيًا.
